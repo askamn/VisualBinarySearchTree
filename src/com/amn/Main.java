@@ -35,7 +35,7 @@ import com.amn.Graphics.DrawablePanel;
 
 public class Main implements ActionListener
 {
-	public static final boolean DEBUG = true;
+	public static final boolean DEBUG = false;
 	
 	// Window Parameters
 	public int 			windowWidth = 800;
